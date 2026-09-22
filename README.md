@@ -1,49 +1,30 @@
-# Portfólio e projetos
+# Portfólio de Gabriel D'Almeida
 
-Repositório de estudos e projetos de Gabriel D'Almeida, estudante de Análise e Desenvolvimento de Sistemas no CEUB.
+Portfólio pessoal desenvolvido em HTML e CSS e publicado com GitHub Pages.
 
-## Projetos
+[Ver portfólio publicado](https://gabrieldalmeida0.github.io/portfolio)
 
-### Portfólio web
+## Sobre o projeto
 
-Página pessoal responsiva desenvolvida em HTML e CSS, com apresentação, habilidades, projetos e formas de contato.
+A página reúne uma apresentação profissional, tecnologias em estudo, experiência anterior e projetos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas.
 
-- [Abrir portfólio](https://gabrieldalmeida0.github.io/g)
-- [Ver código](./index.html)
+## Tecnologias
 
-### Protótipo de controle financeiro
-
-Protótipo de interface para organização de receitas, despesas e saldo, criado no Figma.
-
-- [Ver protótipo no Figma](https://www.figma.com/community/file/1637986220810727551)
-- [Ler documentação](./pessoal/controle-financeiro/README.md)
-
-### Exercícios de lógica com Python
-
-Exercícios acadêmicos de introdução à programação, trabalhando sequência, repetição, contagem e soma.
-
-- [Ver exercícios](./academico/exercicios-python/phyton1)
-
-## Tecnologias e ferramentas
-
-- HTML5 e CSS3
-- Python
+- HTML5
+- CSS3
 - Git e GitHub
 - GitHub Pages
-- Figma
 
-## Estrutura
+## Projetos apresentados
 
-- `index.html` — versão publicada do portfólio.
-- `academico/exercicios-python/` — exercícios acadêmicos de Python.
-- `academico/portifolio-web/` — versão acadêmica do portfólio.
-- `pessoal/controle-financeiro/` — documentação do protótipo no Figma.
+- [Exercícios de Python](https://github.com/gabrieldalmeida0/python-exercises)
+- [Protótipo de Controle Financeiro](https://github.com/gabrieldalmeida0/finance-tracker-ui)
 
 ## Executar localmente
 
 ```bash
-git clone https://github.com/gabrieldalmeida0/g.git
-cd g
+git clone https://github.com/gabrieldalmeida0/portfolio.git
+cd portfolio
 ```
 
 Depois, abra o arquivo `index.html` no navegador.
